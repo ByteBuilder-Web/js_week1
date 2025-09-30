@@ -1,0 +1,13 @@
+{
+  "name": "week_1-exercises",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Week 1 JavaScript exercises with Jest tests",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
